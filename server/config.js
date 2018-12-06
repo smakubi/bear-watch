@@ -24,7 +24,7 @@ config.sfdc = {
   // Data service
   data : {
     // Force.com API version
-    apiVersion : 'v44.0'
+    apiVersion : 'v39.0'
   }
 };
 
